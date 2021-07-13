@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "569882250271",
+    "project_id": "bretts-app-c13e0",
+    "storage_bucket": "bretts-app-c13e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569882250271:android:1e5c15d8bd6e4c472bd92a",
+        "android_client_info": {
+          "package_name": "com.example.compsci"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "569882250271-vkh6l6un8chvrprrkndompr9j8biap19.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJ8n4Nk0YGRVz0v4yO77v4aavUZPKnYPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "569882250271-vkh6l6un8chvrprrkndompr9j8biap19.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
